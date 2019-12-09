@@ -3,8 +3,12 @@
 print ("Lynn is Awesome")
 test = "emosewA si nnyL"
 print(test[::-1]) 
+<<<<<<< HEAD
 
-print("conflict here")
 
 
+
+
+
+>>>>>>> dev-featurebranch
 
